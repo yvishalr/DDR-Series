@@ -86,7 +86,7 @@ Which produces the following birds eye view plot :
 
 ## stepResponseDDR.slx
 
-This is a simulink blockset that outputs the system response of a generic two wheel DDR on the scope block. If the physial parameters are changed, re-tuning of the PID values will be required.
+This is a simulink blockset that outputs the system response of a generic two wheel DDR on the scope block. If the physical parameters are changed, re-tuning of the PID values will be required.
 
 The step input example is displayed below :
 
